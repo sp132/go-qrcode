@@ -9,7 +9,7 @@ import (
 	"os"
 	"strings"
 
-	qrcode "github.com/skip2/go-qrcode"
+	"github.com/sp132/go-qrcode"
 )
 
 func main() {
